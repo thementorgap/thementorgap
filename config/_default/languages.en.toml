@@ -2,24 +2,24 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "The Mentor Gap </br> Growth starts where access does."
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "/img/the-mentor-gap-rounded.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "The Mentor Gap - Growth starts where access does."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+    [params.author]
+    name = "The Mentor Gap"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+#   image = "/img/the-mentor-gap-logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
+    headline = "Growth starts where access does </br> Free AI mentoring guides for both sides of the gap: mentees and new mentors."
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
