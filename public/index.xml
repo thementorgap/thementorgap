@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Mentor Gap &lt;/br&gt; Growth starts where access does.</title>
+    <title>The Mentor Gap</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on The Mentor Gap &lt;/br&gt; Growth starts where access does.</description>
+    <description>Recent content on The Mentor Gap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 The Mentor Gap</copyright>
@@ -26,7 +26,7 @@
       
       <guid>//localhost:1313/starter-kit/starter-setup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/starter-kit/starter-setup/featured-starter-setup.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/starter-kit/starter-setup/featured-placeholder.png" />
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       
       <guid>//localhost:1313/ai-mentor/ai-mentor-job-search/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-mentor/ai-mentor-job-search/featured-job-search.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-mentor/ai-mentor-job-search/featured-placeholder.png" />
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       
       <guid>//localhost:1313/ai-mentor/ai-mentor-setup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-mentor/ai-mentor-setup/featured-ai-mentor-setup.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-mentor/ai-mentor-setup/feature-placeholder.png" />
     </item>
     
   </channel>
