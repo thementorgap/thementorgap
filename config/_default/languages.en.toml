@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "The Mentor Gap </br> Growth starts where access does."
+title = "The Mentor Gap"
 
 [params]
   displayName = "EN"
