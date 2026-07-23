@@ -1,0 +1,15 @@
+# Hugo build artifacts
+/public/
+/resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Node (if used for Blowfish/Tailwind tooling)
+node_modules/
+
+# OS
+.DS_Store
+
+# Environment / local secrets (none yet, keeping this ready)
+.env
+.env.*
