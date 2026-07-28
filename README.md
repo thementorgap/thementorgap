@@ -35,9 +35,9 @@ hugo server
 
 ```
 content/
-  about/       site's About section
-  ai-mentor/   Virtual AI Mentor series (mentee track)
-  starter-kit/ Mentor Starter Kit (mentor track)
+  about.md/       site's About section
+  ai-mentor/   Virtual AI Mentor Guides (mentee track)
+  starter-kit/ Mentor Starter Kit Guides (mentor track)
 ```
 
 ## License

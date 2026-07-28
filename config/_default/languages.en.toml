@@ -11,7 +11,7 @@ title = "The Mentor Gap"
   dateFormat = "2 January 2006"
   logo = "/img/the-mentor-gap-rounded.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "The Mentor Gap - Growth starts where access does."
+  description = "The Mentor Gap - Free AI mentoring guides for both sides of the gap: mentees and new mentors."
   # copyright = "Copy, _right?_ :thinking_face:"
 
     [params.author]
@@ -19,7 +19,7 @@ title = "The Mentor Gap"
 #   email = "youremail@example.com"
 #   image = "/img/the-mentor-gap-logo.png"
 #   imageQuality = 96
-    headline = "Growth starts where access does </br> Free AI mentoring guides for both sides of the gap: mentees and new mentors."
+    headline = "Growth starts where access does"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
