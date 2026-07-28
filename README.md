@@ -12,6 +12,8 @@ A mentor changes the shape of someone's career, and most people who never get on
 
 This is not a replacement for human mentorship. It's built for people who currently have none, on either side of the relationship.
 
+The Mentor Gap is an independent, noncommercial initiative created by [Suzana Melo](https://linkedin.com/in/suzanamelo-m). Formal registration as a nonprofit association is planned as the project grows.
+
 ## What's inside
 
 Two free, self-serve guide tracks for setting up an AI mentor on Claude.ai:
