@@ -7,3 +7,7 @@ img[alt="Suzana Melo, founder of The Mentor Gap"] {
   margin-right: 1.5rem;
   margin-bottom: 0.5rem;
 }
+
+h1.text-neutral-800.dark\:text-neutral-200 {
+  white-space: pre-line;
+}
