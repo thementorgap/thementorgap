@@ -19,7 +19,7 @@ For new mentors: the Mentor Starter Kit gives people who want to mentor but don'
 
 The guide series is where The Mentor Gap is starting, not where it stops. As new ideas and resources emerge, the project will keep building on both sides of the gap, more guides, new formats, new tools, always free and always aimed at the same goal, closing the distance between people who need guidance and people ready to give it.
 
-The Mentor Gap is an independent, noncommercial initiative created by Suzana Melo. Formal registration as a nonprofit association is planned as the project grows.
+The Mentor Gap is an independent, noncommercial initiative created by [Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/). Formal registration as a nonprofit association is planned as the project grows.
 
 ---
 
@@ -31,7 +31,7 @@ The Mentor Gap is an independent, noncommercial initiative created by Suzana Mel
 
 The first time, as a journalist in Brazil, she spent over 20 years as an editor-in-chief and media director, leading newsrooms under daily deadlines. The second time, she moved to New Zealand with no English, worked as a cleaner, a supermarket checkout operator, and a driver, rebuilt her confidence and her language from scratch, and completed a coding bootcamp in her 40s with no technical background.
 
-She's now a full-stack engineer, an AWS Community Builder, and a postgraduate student in AI and Machine Learning at [PUC Minas](https://vemprapuc.pucminas.br/). She writes about Cloud, AWS, and AI for developers and career changers at [suzanamelo.com](https://suzanamelo.com). She founded and leads the [AWS Women's User Group Sweden](https://www.linkedin.com/company/aws-womens-user-group-sweden/), co-organizes AWS Community Day Baltic, and previously founded and led developer communities in New Zealand, including the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) and Full-Stack Engineering Auckland meetups.
+She's now a full-stack engineer, an AWS Community Builder, and a postgraduate student in AI and Machine Learning at [PUC Minas](https://vemprapuc.pucminas.br/). She writes about Cloud, AWS, and AI for developers and career changers at [suzanamelo.com](https://suzanamelo.com). She founded and leads the [AWS Women's User Group Sweden](https://www.linkedin.com/company/aws-womens-user-group-sweden/), co-organizes [AWS Community Day Baltic](https://awsbaltic.eu/), and previously founded and led developer communities in New Zealand, including the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) and Full-Stack Engineering Auckland meetups.
 
 She has spent years mentoring career changers, women, and tech beginners across Europe, West Asia, Africa, Asia-Pacific, and the Americas, through [WIICA's CloudHER](https://www.linkedin.com/company/wiica/) program (1,000+ women trained across 10 African countries) and [Escola da Nuvem](https://escoladanuvem.org/) in Brazil (3,600+ students placed into jobs), alongside the informal mentoring that comes with leading a community.
 
