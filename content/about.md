@@ -5,7 +5,7 @@ draft = false
 
 # The Mentor Gap
 
-![The Mentor Gap Logo](/img/the-mentor-gap-banner.png)
+![The Mentor Gap Logo](/img/the-mentor-gap-banner.webp)
 
 A mentor changes the shape of someone's career. The right guidance at the right moment can be the difference between giving up and breaking through. Most people who reach senior positions in tech can point to someone who showed them the way. Most people who never get the chance simply never had that someone.
 

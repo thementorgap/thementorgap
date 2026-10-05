@@ -4,7 +4,7 @@
 
 _Project in development_
 
-![The Mentor Gap Logo](assets/img/the-mentor-gap-banner.png)
+![The Mentor Gap Logo](assets/img/the-mentor-gap-banner.webp)
 
 ## About
 
