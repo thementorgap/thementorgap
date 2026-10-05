@@ -9,8 +9,8 @@ title = "The Mentor Gap"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/img/the-mentor-gap-rounded.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "/img/the-mentor-gap-rounded.webp"
+  # secondaryLogo = "/img/the-mentor-gap-rounded.webp"
   description = "The Mentor Gap - Free AI mentoring guides for both sides of the gap: mentees and new mentors."
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -18,7 +18,7 @@ title = "The Mentor Gap"
     name = """The Mentor Gap
     Growth starts where access does"""
 #   email = "youremail@example.com"
-#   image = "/img/the-mentor-gap-logo.png"
+#   image = "/img/the-mentor-gap-rounded.webp"
 #   imageQuality = 96
     headline = "Free AI mentoring guides for both sides of the gap: mentees and new mentors. * Project in development - Launch Oct 2026"
 #   bio = "A little bit about you"
