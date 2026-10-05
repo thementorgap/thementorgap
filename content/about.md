@@ -25,7 +25,7 @@ The Mentor Gap is an independent, noncommercial initiative created by [Suzana Me
 
 ## Suzana Melo, Founder
 
-![Suzana Melo, founder of The Mentor Gap](/img/suzana-melo-founder.png)
+![Suzana Melo, founder of The Mentor Gap](/img/suzana-melo-founder.webp)
 
 [Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/) built her career twice.
 
