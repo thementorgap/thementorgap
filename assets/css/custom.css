@@ -1,13 +1,230 @@
-img[alt="Suzana Melo, founder of The Mentor Gap"] {
-  width: 150px !important;
-  height: 150px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  float: left;
-  margin-right: 1.5rem;
-  margin-bottom: 0.5rem;
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Poppins:wght@600;700&display=swap");
+
+/* ==========================================================================
+   1. Brand Design Tokens
+   ========================================================================== */
+:root {
+  --mg-near-black: #282828;
+  --mg-crimson: #831715;
+  --mg-off-white: #faf6f0;
+  --mg-footer-grey: #6b6b6b;
+  --mg-muted-grey: #555555;
+}
+
+/* ==========================================================================
+   2. Base Typography & Headings
+   ========================================================================== */
+body {
+  font-family:
+    "Lato",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  color: var(--mg-near-black);
+}
+
+.prose h1,
+.prose h1 * {
+  font-family: "Poppins", sans-serif !important;
+  color: var(--mg-near-black) !important;
+  font-weight: 700 !important;
+}
+
+.prose h2,
+.prose h2 * {
+  font-family: "Poppins", sans-serif !important;
+  color: var(--mg-crimson) !important;
+  font-weight: 600 !important;
+  border-bottom: 1px solid #faf6f0;
+  padding-bottom: 0.25rem;
+}
+
+.prose h3,
+.prose h3 * {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 600 !important;
+}
+
+.prose hr {
+  border-color: var(--mg-crimson) !important;
+  opacity: 0.25;
 }
 
 h1.text-neutral-800.dark\:text-neutral-200 {
   white-space: pre-line;
+}
+
+/* ==========================================================================
+   3. Blowfish Alert Shortcodes (Mirrors PDF Callouts)
+   ========================================================================== */
+.prose .alert {
+  background-color: var(--mg-off-white) !important;
+  border-left: 4px solid var(--mg-crimson) !important;
+  border-radius: 0.375rem !important;
+  color: var(--mg-near-black) !important;
+  padding: 1rem 1.25rem !important;
+  margin: 1.5rem 0 !important;
+}
+
+.prose .alert strong {
+  color: var(--mg-crimson) !important;
+}
+
+/* ==========================================================================
+   4. Blockquotes (For Prompt & Instructions Templates)
+   ========================================================================== */
+.prose blockquote {
+  border-left: 4px solid var(--mg-near-black) !important;
+  background-color: #fafafa !important;
+  color: var(--mg-near-black) !important;
+  font-style: normal !important;
+  padding: 1.25rem !important;
+  border-radius: 0 0.375rem 0.375rem 0;
+}
+
+/* ==========================================================================
+   5. Action Buttons (Homepage & Guide CTA)
+   ========================================================================== */
+.mg-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--mg-crimson);
+  color: #ffffff !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.375rem;
+  text-decoration: none !important;
+  transition: opacity 0.2s ease;
+}
+
+.mg-btn-primary:hover {
+  opacity: 0.9;
+}
+
+/* ==========================================================================
+   6. Founder Image Layout (Circular Mask + Float Left)
+   ========================================================================== */
+.founder-image,
+.founder-photo,
+.about-founder-img {
+  float: left !important;
+  margin-right: 2rem !important;
+  margin-bottom: 1.5rem !important;
+  margin-top: 0.5rem !important;
+  width: 180px !important;
+  height: 180px !important;
+  max-width: 180px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.founder-bio::after,
+.about-section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 640px) {
+  .founder-image,
+  .founder-photo,
+  .about-founder-img {
+    float: none !important;
+    margin: 1rem auto 1.5rem auto !important;
+    display: block !important;
+  }
+}
+
+/* ==========================================================================
+   7. Partner Grid & Privacy Footnote
+   ========================================================================== */
+.partner-grid img {
+  filter: grayscale(100%);
+  opacity: 0.75;
+  transition: all 0.2s ease;
+}
+.partner-grid img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+.privacy-footnote {
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+/* ==========================================================================
+   8. Dark Mode Accessibility Overrides
+   ========================================================================== */
+.dark body {
+  background-color: #1c1c1e !important;
+  color: #faf6f0 !important;
+}
+
+/* Lighten headings so they don't drown in dark mode */
+.dark .prose h1,
+.dark .prose h1 * {
+  color: #faf6f0 !important;
+}
+
+.dark .prose h2,
+.dark .prose h2 * {
+  color: #fad6af !important; /* Matches social media icons */
+  border-bottom-color: #3f3f46 !important; /* Subtle neutral-700 divider */
+}
+
+.dark .prose h3,
+.dark .prose h3 * {
+  color: #faf6f0 !important;
+}
+
+/* Fix red text in dark mode - swap to high-contrast tint */
+.dark .text-red-700,
+.dark .text-red-800,
+.dark [style*="#831715"],
+.dark [style*="color: rgb(131, 23, 21)"] {
+  color: #fca5a5 !important; /* Soft rose with 7.1:1 AAA contrast on dark */
+}
+
+/* Ensure header navigation menu text remains visible */
+.dark header nav a,
+.dark header .menu-item {
+  color: #faf6f0 !important;
+  opacity: 0.9;
+}
+.dark header nav a:hover {
+  opacity: 1;
+}
+
+/* Callout and Alert boxes in dark mode */
+.dark .prose .alert {
+  background-color: #27272a !important;
+  border-left-color: #f87171 !important;
+  color: #faf6f0 !important;
+}
+
+.dark .prose .alert strong {
+  color: #f87171 !important;
+}
+
+/* Prompt Template Blockquotes in dark mode */
+.dark .prose blockquote {
+  background-color: #232326 !important;
+  border-left-color: #faf6f0 !important;
+  color: #faf6f0 !important;
+}
+
+/* Adjust button border in dark mode */
+.dark .mg-btn-secondary {
+  border-color: #f87171 !important;
+  color: #f87171 !important;
 }
