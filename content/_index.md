@@ -13,7 +13,7 @@ description = "Growth starts where access does."
   </p>
   
   <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-    <a href="/ai-mentor/" class="mg-btn-primary">
+    <a href="/virtual-ai-mentor/" class="mg-btn-primary">
       Explore AI Mentor Guides →
     </a>
   </div>
