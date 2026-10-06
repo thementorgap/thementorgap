@@ -1,9 +1,10 @@
 +++
 date = '2026-07-19T23:34:17+02:00'
 draft = false
-+++
+title = 'About The Mentor Gap'
+description = 'Why The Mentor Gap exists, who created it, and our privacy commitments.'
 
-# The Mentor Gap
++++
 
 ![The Mentor Gap Logo](/img/the-mentor-gap-banner.webp)
 
@@ -25,9 +26,9 @@ The Mentor Gap is an independent, noncommercial initiative created by [Suzana Me
 
 ## Suzana Melo, Founder
 
-![Suzana Melo, founder of The Mentor Gap](/img/suzana-melo-founder.webp)
+<img src="/img/suzana-melo-founder.webp" alt="Suzana Melo" class="founder-image">
 
-[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/) built her career twice.
+**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/) built her career twice.**
 
 The first time, as a journalist in Brazil, she spent over 20 years as an editor-in-chief and media director, leading newsrooms under daily deadlines. The second time, she moved to New Zealand with no English, worked as a cleaner, a supermarket checkout operator, and a driver, rebuilt her confidence and her language from scratch, and completed a coding bootcamp in her 40s with no technical background.
 
@@ -40,3 +41,12 @@ She knows what it means to have no one in your network who can answer the questi
 <div style="clear:both;"></div>
 
 Growth starts where access does.
+
+---
+
+<div class="privacy-footnote mt-10 p-4 rounded border text-xs text-neutral-600 dark:text-neutral-400" style="background-color: #FAFAFA; border-color: #E5E5E5;">
+  <p class="font-semibold mb-1 text-neutral-700 dark:text-neutral-300">Privacy Commitment</p>
+  <p class="leading-relaxed mb-0">
+    The Mentor Gap is a privacy-first personal initiative. This site operates with a <strong>zero-tracker policy</strong> (no Google Analytics, no tracking cookies, and no persistent device IDs). Feedback forms are strictly anonymous, and our guides teach safe AI practices to keep credentials and personal data out of external models.
+  </p>
+</div>
