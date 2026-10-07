@@ -2,8 +2,6 @@
 
 **Growth starts where access does**
 
-_Project in development_
-
 ![The Mentor Gap Logo](assets/img/the-mentor-gap-banner.webp)
 
 ## About

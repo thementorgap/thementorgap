@@ -12,12 +12,12 @@
 
 [[main]]
   name = "Virtual AI Mentor"
-  pageRef = "ai-mentor"
+  pageRef = "virtual-ai-mentor"
   weight = 10
 
 [[main]]
   name = "Mentor Starter Kit"
-  pageRef = "starter-kit"
+  pageRef = "mentor-starter-kit"
   weight = 20
 
 [[main]]
