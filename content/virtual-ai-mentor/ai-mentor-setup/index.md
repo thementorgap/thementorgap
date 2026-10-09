@@ -81,7 +81,7 @@ For the full, current details on how your data is handled, read Anthropic's priv
 ## Step by Step
 
 1. **Step One.** Go to [claude.ai](https://claude.ai) and create a free account (no credit card required). You can use Claude in your phone's browser or through the Claude app.
-2. **Step Two.** Open the menu and look for **Projects**, then choose **New Project**. On a computer, the menu is in the left sidebar. On a phone, tap your account icon or the menu icon in the corner of the screen to open the same menu; if the layout looks different from what is described here, Claude's Help Center has the exact current steps for your device.
+2. **Step Two.** Open the menu and look for **Projects**, then choose **New Project**. On a computer, the menu is in the left sidebar. On a phone, tap your account icon or the menu icon in the corner of the screen to open the same menu; if the layout looks different from what is described here, [Claude's Help Center](https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects) has the exact current steps for your device.
 3. **Step Three.** Give it a clear, specific name, for example: _“My Job Search (Backend Developer),”_ _“My Study Plan (AWS Exam),”_ or _“My Career Plan (Becoming a DevOps Engineer).”_ Not _“Project 1.”_
 4. **Step Four.** Open **Project Instructions** (or Custom Instructions) and paste your context. If this is the only guide you are using right now, start with the basic template below. Guides for a specific goal (job search, study planning, and so on) each have their own, more detailed version; use theirs instead once you know which one applies to you.
 
