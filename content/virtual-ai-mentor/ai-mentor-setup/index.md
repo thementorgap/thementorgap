@@ -324,24 +324,22 @@ Pick the one that matches your most urgent need right now. You can always come b
 
 ---
 
-<div class="not-prose my-10 p-6 rounded-lg bg-neutral-50 dark:bg-neutral-800/60 border border-neutral-200 dark:border-neutral-700 flex flex-col sm:flex-row items-center justify-between gap-4">
-  <div class="text-sm text-center sm:text-left">
-    <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block text-base mb-1">Finished reading? Download the offline guide</strong>
-    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy on your device for quick reference.</span>
+<div class="not-prose my-10 p-4 rounded-lg bg-neutral-100 dark:bg-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-4 border border-neutral-200 dark:border-neutral-700">
+  <div class="text-sm">
+    <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block">Finished reading? Download the offline guide</strong>
+    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device.</span>
   </div>
-  <div class="flex items-center gap-2 w-full sm:w-auto justify-center sm:justify-end">
-    <a href="/downloads/ai-mentor-setup.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center flex-1 sm:flex-none">
+  <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
+    <a href="/downloads/ai-mentor-setup.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
       PDF (EN) ↓
     </a>
-    <a href="/downloads/ai-mentor-setup-pt-br.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center flex-1 sm:flex-none">
+    <a href="/downloads/ai-mentor-setup-pt-br.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
       PDF (PT-BR) ↓
     </a>
   </div>
 </div>
 
----
-
-<div class="not-prose my-10 p-6 rounded-lg bg-neutral-50 dark:bg-neutral-800/60 border border-neutral-200 dark:border-neutral-700 text-center">
+<div class="not-prose my-8 p-6 rounded-lg bg-neutral-50 dark:bg-neutral-800/60 border border-neutral-200 dark:border-neutral-700 text-center">
   <h3 class="text-lg font-bold text-neutral-900 dark:text-neutral-100 mb-2" style="font-family: 'Poppins', sans-serif;">
     Help us improve this guide
   </h3>
