@@ -13,10 +13,22 @@ showTableOfContents = true
     <span class="text-neutral-600 dark:text-neutral-400">Download the complete guide as a PDF in English or Brazilian Portuguese.</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
-    <a href="/downloads/ai-mentor-setup.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
+    <a href="/downloads/ai-mentor-setup.pdf" 
+       download 
+       class="mg-btn-primary text-sm whitespace-nowrap text-center"
+       data-umami-event="Download Guide"
+       data-umami-event-guide="AI Mentor Setup"
+       data-umami-event-language="EN"
+       data-umami-event-position="top">
       PDF (EN) ↓
     </a>
-    <a href="/downloads/ai-mentor-setup-pt-br.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
+    <a href="/downloads/ai-mentor-setup-pt-br.pdf" 
+       download 
+       class="mg-btn-primary text-sm whitespace-nowrap text-center"
+       data-umami-event="Download Guide"
+       data-umami-event-guide="AI Mentor Setup"
+       data-umami-event-language="PT-BR"
+       data-umami-event-position="top">
       PDF (PT-BR) ↓
     </a>
   </div>
@@ -330,10 +342,22 @@ Pick the one that matches your most urgent need right now. You can always come b
     <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device.</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
-    <a href="/downloads/ai-mentor-setup.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
+    <a href="/downloads/ai-mentor-setup.pdf" 
+       download 
+       class="mg-btn-primary text-sm whitespace-nowrap text-center"
+       data-umami-event="Download Guide"
+       data-umami-event-guide="AI Mentor Setup"
+       data-umami-event-language="EN"
+       data-umami-event-position="bottom">
       PDF (EN) ↓
     </a>
-    <a href="/downloads/ai-mentor-setup-pt-br.pdf" download class="mg-btn-primary text-sm whitespace-nowrap text-center">
+    <a href="/downloads/ai-mentor-setup-pt-br.pdf" 
+       download 
+       class="mg-btn-primary text-sm whitespace-nowrap text-center"
+       data-umami-event="Download Guide"
+       data-umami-event-guide="AI Mentor Setup"
+       data-umami-event-language="PT-BR"
+       data-umami-event-position="bottom">
       PDF (PT-BR) ↓
     </a>
   </div>
