@@ -352,5 +352,5 @@ Pick the one that matches your most urgent need right now. You can always come b
 </div>
 
 <p class="text-xs text-neutral-500 text-center italic mt-12">
-  This guide was created with AI assistance (Claude, by Anthropic), used for drafting, editorial review, and formatting, under Suzana Melo's direction and review throughout.
+  This guide was created with AI assistance, used for editorial review and formatting, under Suzana Melo's direction and review throughout.
 </p>
