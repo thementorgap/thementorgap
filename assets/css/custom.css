@@ -228,3 +228,8 @@ h1.text-neutral-800.dark\:text-neutral-200 {
   border-color: #f87171 !important;
   color: #f87171 !important;
 }
+
+/* Hide empty-state text on sections waiting for published guides */
+section:has(> p.py-8 > em) {
+  display: none !important;
+}
