@@ -229,6 +229,56 @@ h1.text-neutral-800.dark\:text-neutral-200 {
   color: #f87171 !important;
 }
 
+/* ==========================================================================
+   7. Partner Grid & Cards
+   ========================================================================== */
+.partner-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.partner-card {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.25rem !important;
+  background-color: #ffffff !important;
+  border: 1px solid #e5e5e5 !important;
+  border-radius: 0.5rem !important;
+  text-decoration: none !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.partner-card:hover {
+  border-color: #a3a3a3 !important;
+  transform: translateY(-1px);
+}
+
+.partner-card img {
+  height: 48px !important;
+  width: auto !important;
+  max-width: 140px !important;
+  object-fit: contain !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: transform 0.2s ease;
+}
+
+.partner-card:hover img {
+  transform: scale(1.03);
+}
+
+/* Dark mode adjustment */
+.dark .partner-card {
+  background-color: #27272a !important;
+  border-color: #3f3f46 !important;
+}
+
 /* Hide empty-state text on sections waiting for published guides */
 section:has(> p.py-8 > em) {
   display: none !important;
