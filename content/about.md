@@ -40,7 +40,21 @@ She knows what it means to have no one in your network who can answer the questi
 
 <div style="clear:both;"></div>
 
-Growth starts where access does.
+##
+
+---
+
+## Community Partners
+
+<p class="text-sm text-neutral-600 dark:text-neutral-400 mb-6">
+  Organizations supporting and validating the guides with their communities:
+</p>
+
+<div class="partner-grid">
+  <a href="https://www.linkedin.com/company/wiica/" target="_blank" rel="noopener noreferrer" title="Women Innovating In Cloud Africa (WIICA)" class="partner-card">
+    <img src="/img/partners/wiica.webp" alt="Women Innovating In Cloud Africa (WIICA)">
+  </a>
+</div>
 
 ---
 
