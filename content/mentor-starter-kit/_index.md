@@ -20,7 +20,7 @@ draft = false
 
 {{< alert >}}
 **Coming Soon — Launching Shortly:**  
-The foundational guide, **Setting Up Your Mentoring Project**, is currently undergoing final review and validation. It will be published here soon. In the meantime, explore the [Virtual AI Mentor guides](/virtual-ai-mentor/) to see how the mentee track operates.
+The foundational guide, **Setting Up Your Mentoring Project**, is currently in production. It will be published here soon. In the meantime, explore the [Virtual AI Mentor guides](/virtual-ai-mentor/) to see how the mentee track operates.
 {{< /alert >}}
 
 {{< alert >}}
