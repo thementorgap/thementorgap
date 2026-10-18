@@ -61,6 +61,6 @@ She knows what it means to have no one in your network who can answer the questi
 <div class="privacy-footnote mt-10 p-4 rounded border text-xs text-neutral-600 dark:text-neutral-400" style="background-color: #FAFAFA; border-color: #E5E5E5;">
   <p class="font-semibold mb-1 text-neutral-700 dark:text-neutral-300">Privacy Commitment</p>
   <p class="leading-relaxed mb-0">
-    The Mentor Gap is a privacy-first personal initiative. This site operates with a <strong>zero-tracker policy</strong> (no Google Analytics, no tracking cookies, and no persistent device IDs). Feedback forms are strictly anonymous, and our guides teach safe AI practices to keep credentials and personal data out of external models.
+    The Mentor Gap collects as little as possible. This site uses Umami, a privacy-focused analytics tool. Umami does not use cookies and does not collect personally identifiable information (PII). It records anonymous, aggregated data only: pages visited, guide downloads, approximate location (country and city), device type, browser, and the site that referred you. The feedback form is anonymous and never asks for your name or email. It runs on Google Forms, so Google’s privacy policy also applies. Our guides teach safe AI practices to keep credentials and personal data out of AI tools.
   </p>
 </div>
