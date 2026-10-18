@@ -47,7 +47,7 @@ She knows what it means to have no one in your network who can answer the questi
 ## Community Partners
 
 <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-6">
-  Organizations supporting and validating the guides with their communities:
+  Organizations using and supporting the guides with their communities:
 </p>
 
 <div class="partner-grid">
