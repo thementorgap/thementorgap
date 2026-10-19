@@ -19,7 +19,7 @@ draft = false
 </div>
 
 {{< alert >}}
-**Coming Soon — Launching Shortly:**  
+**Coming Soon:**  
 The foundational guide, **Setting Up Your Mentoring Project**, is currently in production. It will be published here soon. In the meantime, explore the [Virtual AI Mentor guides](/virtual-ai-mentor/) to see how the mentee track operates.
 {{< /alert >}}
 
