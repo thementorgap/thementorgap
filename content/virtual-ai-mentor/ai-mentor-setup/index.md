@@ -10,7 +10,7 @@ showTableOfContents = true
 <div class="not-prose my-6 p-4 rounded-lg bg-neutral-100 dark:bg-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-4 border border-neutral-200 dark:border-neutral-700">
   <div class="text-sm">
     <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block">Prefer to read offline or print?</strong>
-    <span class="text-neutral-600 dark:text-neutral-400">Download the complete guide as a PDF in English or Brazilian Portuguese.</span>
+    <span class="text-neutral-600 dark:text-neutral-400">Download the complete guide as a PDF (4.5 MB each) in English or Brazilian Portuguese.</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
     <a href="/downloads/ai-mentor-setup.pdf" 
@@ -327,7 +327,7 @@ You're set up. This module covers the foundation: how Claude works, and how to b
 
 From here, the same approach supports very different goals: a job search, a study plan for a specific exam, a longer-term plan for building a skill or a direction, even setting yourself up to mentor someone else one day. Each of those gets its own guide in this series, with its own version of the Project Instructions template and its own specific risks to add on top of what you just built here.
 
-The series is still growing. Check [thementorgap.org/ai-mentor/](/ai-mentor/) for whichever guide matches what you need right now. If nothing there matches yet, everything in this module still applies. Adapt your Project Instructions to your own situation and keep going; you do not need a guide to exist before using what you already have.
+The series is still growing. Check [Virtual AI Mentor](/virtual-ai-mentor/) for whichever guide matches what you need right now. If nothing there matches yet, everything in this module still applies. Adapt your Project Instructions to your own situation and keep going; you do not need a guide to exist before using what you already have.
 
 {{< alert >}}
 **You don't need all of them**  
@@ -339,7 +339,7 @@ Pick the one that matches your most urgent need right now. You can always come b
 <div class="not-prose my-10 p-4 rounded-lg bg-neutral-100 dark:bg-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-4 border border-neutral-200 dark:border-neutral-700">
   <div class="text-sm">
     <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block">Finished reading? Download the offline guide</strong>
-    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device.</span>
+    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device (PDF, 4.5 MB).</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
     <a href="/downloads/ai-mentor-setup.pdf" 
@@ -375,6 +375,10 @@ Pick the one that matches your most urgent need right now. You can always come b
   </a>
 </div>
 
-<p class="text-xs text-neutral-500 text-center italic mt-12">
-  This guide was created with AI assistance, used for editorial review and formatting, under Suzana Melo's direction and review throughout.
-</p>
+<div class="text-xs text-neutral-500 text-center mt-12 space-y-1">
+  <p><strong>Version 1.0</strong> (October 2026): first release.</p>
+  <p>© 2026 The Mentor Gap. Licensed under
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.
+    You may share and adapt this guide for non-commercial use, with credit, under the same license.</p>
+  <p class="italic">This guide was created with AI assistance, used for editorial review and formatting, under Suzana Melo's direction and review throughout.</p>
+</div>

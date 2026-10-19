@@ -12,7 +12,7 @@ title = "The Mentor Gap"
   logo = "/img/the-mentor-gap-rounded.webp"
   # secondaryLogo = "/img/the-mentor-gap-rounded.webp"
   description = "The Mentor Gap - Free AI mentoring guides for both sides of the gap: mentees and new mentors."
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2026 Suzana Melo, The Mentor Gap"
 
     [params.author]
     name = "The Mentor Gap"
