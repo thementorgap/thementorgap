@@ -327,7 +327,7 @@ You're set up. This module covers the foundation: how Claude works, and how to b
 
 From here, the same approach supports very different goals: a job search, a study plan for a specific exam, a longer-term plan for building a skill or a direction, even setting yourself up to mentor someone else one day. Each of those gets its own guide in this series, with its own version of the Project Instructions template and its own specific risks to add on top of what you just built here.
 
-The series is still growing. Check [thementorgap.org/ai-mentor/](/ai-mentor/) for whichever guide matches what you need right now. If nothing there matches yet, everything in this module still applies. Adapt your Project Instructions to your own situation and keep going; you do not need a guide to exist before using what you already have.
+The series is still growing. Check [Virtual AI Mentor](/virtual-ai-mentor/) for whichever guide matches what you need right now. If nothing there matches yet, everything in this module still applies. Adapt your Project Instructions to your own situation and keep going; you do not need a guide to exist before using what you already have.
 
 {{< alert >}}
 **You don't need all of them**  
