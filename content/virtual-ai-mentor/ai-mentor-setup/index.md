@@ -375,6 +375,10 @@ Pick the one that matches your most urgent need right now. You can always come b
   </a>
 </div>
 
-<p class="text-xs text-neutral-500 text-center italic mt-12">
-  This guide was created with AI assistance, used for editorial review and formatting, under Suzana Melo's direction and review throughout.
-</p>
+<div class="text-xs text-neutral-500 text-center mt-12 space-y-1">
+  <p><strong>Version 1.0</strong> (October 2026): first release.</p>
+  <p>© 2026 The Mentor Gap. Licensed under
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.
+    You may share and adapt this guide for non-commercial use, with credit, under the same license.</p>
+  <p class="italic">This guide was created with AI assistance, used for editorial review and formatting, under Suzana Melo's direction and review throughout.</p>
+</div>
