@@ -10,7 +10,7 @@ showTableOfContents = true
 <div class="not-prose my-6 p-4 rounded-lg bg-neutral-100 dark:bg-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-4 border border-neutral-200 dark:border-neutral-700">
   <div class="text-sm">
     <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block">Prefer to read offline or print?</strong>
-    <span class="text-neutral-600 dark:text-neutral-400">Download the complete guide as a PDF in English or Brazilian Portuguese.</span>
+    <span class="text-neutral-600 dark:text-neutral-400">Download the complete guide as a PDF (4.5 MB each) in English or Brazilian Portuguese.</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
     <a href="/downloads/ai-mentor-setup.pdf" 
@@ -339,7 +339,7 @@ Pick the one that matches your most urgent need right now. You can always come b
 <div class="not-prose my-10 p-4 rounded-lg bg-neutral-100 dark:bg-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-4 border border-neutral-200 dark:border-neutral-700">
   <div class="text-sm">
     <strong class="text-neutral-900 dark:text-neutral-100 font-semibold block">Finished reading? Download the offline guide</strong>
-    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device.</span>
+    <span class="text-neutral-600 dark:text-neutral-400">Keep a permanent copy of this guide on your device (PDF about 4.5 MB).</span>
   </div>
   <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
     <a href="/downloads/ai-mentor-setup.pdf" 
