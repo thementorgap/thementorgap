@@ -18,9 +18,9 @@ description = "Growth starts where access does."
     </a>
   </div>
   
-  <div class="mt-6 text-xs text-neutral-500 space-y-1" style="font-family: 'Lato', sans-serif;">
+  <div class="mt-6 text-xs text-neutral-600 dark:text-neutral-400 space-y-1" style="font-family: 'Lato', sans-serif;">
     <p>Free and self-serve. No paid accounts or credit cards required.</p>
-    <p class="italic text-neutral-400">Mentor Starter Kit coming late 2026. *Project in development - Launch Oct 2026</
+    <p class="italic text-neutral-600 dark:text-neutral-400">Mentor Starter Kit coming late 2026. *Project in development - Launch Oct 2026</
     p>
   </div>
 </div>
