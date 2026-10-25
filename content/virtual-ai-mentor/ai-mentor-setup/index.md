@@ -375,7 +375,7 @@ Pick the one that matches your most urgent need right now. You can always come b
   </a>
 </div>
 
-<div class="text-xs text-neutral-500 text-center mt-12 space-y-1">
+<div class="text-xs text-neutral-600 dark:text-neutral-400 text-center mt-12 space-y-1">
   <p><strong>Version 1.0</strong> (October 2026): first release.</p>
   <p>© 2026 Suzana Melo, The Mentor Gap. Licensed under
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.
