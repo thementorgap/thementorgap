@@ -229,6 +229,17 @@ h1.text-neutral-800.dark\:text-neutral-200 {
   color: #f87171 !important;
 }
 
+/* Inline links: underline so links don't rely on color alone (WCAG 1.4.1) */
+.prose a:not(.mg-btn-primary):not(.mg-btn-secondary) {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Light mode: darker orange for AA text contrast (5:1). Dark mode keeps Blowfish's orange (7.5:1). */
+html:not(.dark) .prose a:not(.mg-btn-primary):not(.mg-btn-secondary) {
+  color: #c2410c;
+}
+
 /* ==========================================================================
    7. Partner Grid & Cards
    ========================================================================== */
