@@ -29,7 +29,7 @@ The foundational guide, **Setting Up Your Mentoring Project**, is currently in d
 
 ---
 
-### Upcoming Guides in This Series
+## Upcoming Guides in This Series
 
 - **Setting Up Your Mentoring Project (Foundational Guide):** How a mentor's role works in practice, establishing privacy and consent, conducting intake, and setting up a dedicated support Project.
 - **Supporting a Job Search:** Structuring tactical feedback on CVs and interview prep without doing the mentee's work for them.
