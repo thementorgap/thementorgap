@@ -11,7 +11,7 @@ title = "The Mentor Gap"
   dateFormat = "2 January 2006"
   logo = "/img/the-mentor-gap-rounded.webp"
   # secondaryLogo = "/img/the-mentor-gap-rounded.webp"
-  description = "The Mentor Gap - Free AI mentoring guides for both sides of the gap: mentees and new mentors."
+  description = "The Mentor Gap - Free resources to help people keep growing without a mentor, and help new mentors get started."
   copyright = "© 2026 Suzana Melo, The Mentor Gap"
 
     [params.author]
@@ -19,7 +19,7 @@ title = "The Mentor Gap"
 #   email = "youremail@example.com"
 #   image = "/img/the-mentor-gap-rounded.webp"
 #   imageQuality = 96
-    headline = "Free AI mentoring guides for both sides of the gap: mentees and new mentors."
+    headline = "Free resources to help people keep growing without a mentor, and help new mentors get started"
 #   bio = "A little bit about you"
     links = [
       { github = "https://github.com/thementorgap/thementorgap" },
