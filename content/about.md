@@ -40,8 +40,6 @@ She knows what it means to have no one in your network who can answer the questi
 
 <div style="clear:both;"></div>
 
-##
-
 ---
 
 ## Community Partners
