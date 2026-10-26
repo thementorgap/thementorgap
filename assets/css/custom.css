@@ -205,14 +205,17 @@ h1.text-neutral-800.dark\:text-neutral-200 {
   opacity: 1;
 }
 
-/* Callout and Alert boxes in dark mode */
-.dark .prose .alert {
+/* Callout and Alert boxes in dark mode (Blowfish alert shortcode) */
+.dark .prose div.bg-primary-100.dark\:bg-primary-900 {
   background-color: #27272a !important;
-  border-left-color: #f87171 !important;
+  border-left: 4px solid #f87171;
+}
+
+.dark .prose div.bg-primary-100.dark\:bg-primary-900 > span:last-child {
   color: #faf6f0 !important;
 }
 
-.dark .prose .alert strong {
+.dark .prose div.bg-primary-100.dark\:bg-primary-900 strong:first-child {
   color: #f87171 !important;
 }
 
