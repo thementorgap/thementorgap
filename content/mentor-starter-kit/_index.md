@@ -20,7 +20,7 @@ draft = false
 
 {{< alert >}}
 **In Production:**  
-The foundational guide, **Setting Up Your Mentoring Project**, is currently in development. It will be published here soon. In the meantime, explore the [Virtual AI Mentor guides](/virtual-ai-mentor/) to see how the mentee track operates.
+The foundational guide, **Setting Up Your Mentoring Project**, is in development and planned for late 2026. In the meantime, explore the [Virtual AI Mentor guides](/virtual-ai-mentor/) to see how the mentee track operates.
 {{< /alert >}}
 
 {{< alert >}}
