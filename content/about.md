@@ -56,6 +56,14 @@ She knows what it means to have no one in your network who can answer the questi
 
 ---
 
+## Get in Touch
+
+To share or partner on the guides, report a problem, or suggest an improvement, email [thementorgap.org@gmail.com](mailto:thementorgap.org@gmail.com).
+
+For quick, anonymous feedback on a guide, use the feedback form at the end of each guide.
+
+---
+
 <div class="privacy-footnote mt-10 p-4 rounded border text-xs text-neutral-600 dark:text-neutral-400 bg-neutral-50 dark:bg-neutral-800 border-neutral-200 dark:border-neutral-700">
   <p class="font-semibold mb-1 text-neutral-700 dark:text-neutral-300">Privacy Commitment</p>
   <p class="leading-relaxed mb-0">
