@@ -36,7 +36,7 @@ She's now a full-stack engineer, an AWS Community Builder, and a postgraduate st
 
 She has spent years mentoring career changers, women, and tech beginners across Europe, West Asia, Africa, Asia-Pacific, and the Americas, through [WIICA's CloudHER](https://www.linkedin.com/company/wiica/) program (1,000+ women trained across 10 African countries) and [Escola da Nuvem](https://escoladanuvem.org/) in Brazil (3,600+ students placed into jobs), alongside the informal mentoring that comes with leading a community.
 
-She knows what it means to have no one in your network who can answer the question you're afraid to ask. **The Mentor Gap** is what closing that gap, for someone else, actually requires.
+She knows what it means to have no one in your network who can answer the question you're afraid to ask, and what it takes to close that gap for someone else. **The Mentor Gap** is how she's doing it.
 
 <div style="clear:both;"></div>
 
