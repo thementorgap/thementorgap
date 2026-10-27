@@ -30,7 +30,7 @@ The Mentor Gap is an independent, noncommercial initiative created by [Suzana Me
 
 **[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/) built her career twice.**
 
-The first time, as a journalist in Brazil, she spent over 20 years as an editor-in-chief and media director, leading newsrooms under daily deadlines. The second time, she moved to New Zealand with no English, worked as a cleaner, a supermarket checkout operator, and a driver, rebuilt her confidence and her language from scratch, and completed a coding bootcamp in her 40s with no technical background.
+The first time, she spent over 20 years in journalism and communications in Brazil, including roles as a newspaper editor and media director, leading newsrooms under daily deadlines. The second time, she moved to New Zealand with no English, worked as a cleaner, a supermarket checkout operator, and a driver, rebuilt her confidence and her language from scratch, and completed a coding bootcamp in her 40s with no technical background.
 
 She's now a full-stack engineer, an AWS Community Builder, and a postgraduate student in AI and Machine Learning at [PUC Minas](https://vemprapuc.pucminas.br/). She writes about Cloud, AWS, and AI for developers and career changers at [suzanamelo.com](https://suzanamelo.com). She founded and leads the [AWS Women's User Group Sweden](https://www.linkedin.com/company/aws-womens-user-group-sweden/), co-organizes [AWS Community Day Baltic](https://awsbaltic.eu/), and previously founded and led developer communities in New Zealand, including the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) and Full-Stack Engineering Auckland meetups.
 
