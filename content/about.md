@@ -49,8 +49,11 @@ She knows what it means to have no one in your network who can answer the questi
 </p>
 
 <div class="partner-grid">
-  <a href="https://www.linkedin.com/company/wiica/" target="_blank" rel="noopener noreferrer" title="Women Innovating In Cloud Africa (WIICA)" class="partner-card">
-    <img src="/img/partners/wiica.webp" alt="Women Innovating In Cloud Africa (WIICA)">
+  <a href="https://www.linkedin.com/company/wiica/" class="partner-card">
+    <img src="/img/partners/wiica.webp" alt="Women Innovating In Cloud Africa (WIICA)" width="250" height="200">
+  </a>
+  <a href="https://www.mentorshipmattersafrica.com/" class="partner-card partner-card--dark">
+    <img src="/img/partners/mma.jpg" alt="MentorshipMatters Africa" width="122" height="96">
   </a>
 </div>
 
