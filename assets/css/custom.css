@@ -168,6 +168,7 @@ h1.text-neutral-800.dark\:text-neutral-200 {
 /* ==========================================================================
    7. Partner Grid & Privacy Footnote
    ========================================================================== */
+
 .partner-grid img {
   filter: grayscale(100%);
   opacity: 0.75;
@@ -176,6 +177,15 @@ h1.text-neutral-800.dark\:text-neutral-200 {
 .partner-grid img:hover {
   filter: grayscale(0%);
   opacity: 1;
+}
+.partner-card:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+.partner-card.partner-card--dark,
+.dark .partner-card.partner-card--dark {
+  background-color: #041622 !important;
+  border-color: #041622 !important;
 }
 .privacy-footnote {
   font-size: 0.8rem;
