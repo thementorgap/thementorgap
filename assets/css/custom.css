@@ -166,18 +166,9 @@ h1.text-neutral-800.dark\:text-neutral-200 {
 }
 
 /* ==========================================================================
-   7. Partner Grid & Privacy Footnote
+   7. Privacy Footnote
    ========================================================================== */
 
-.partner-card:focus-visible {
-  outline: 2px solid currentColor;
-  outline-offset: 3px;
-}
-.partner-card.partner-card--dark,
-.dark .partner-card.partner-card--dark {
-  background-color: #041622 !important;
-  border-color: #041622 !important;
-}
 .privacy-footnote {
   font-size: 0.8rem;
   line-height: 1.4;
@@ -308,11 +299,26 @@ html:not(.dark) .prose a:not(.mg-btn-primary):not(.mg-btn-secondary) {
   transform: scale(1.03);
 }
 
+.partner-card:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
 /* Dark mode adjustment */
 .dark .partner-card {
   background-color: #27272a !important;
   border-color: #3f3f46 !important;
 }
+
+.partner-card.partner-card--dark,
+.dark .partner-card.partner-card--dark {
+  background-color: #041622 !important;
+  border-color: #041622 !important;
+}
+
+/* ==========================================================================
+   10. Utilities
+   ========================================================================== */
 
 /* Hide empty-state text on sections waiting for published guides */
 section:has(> p.py-8 > em) {
