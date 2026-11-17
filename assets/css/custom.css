@@ -38,8 +38,6 @@ body {
   font-family: "Poppins", sans-serif !important;
   color: var(--mg-crimson) !important;
   font-weight: 600 !important;
-  border-bottom: 1px solid #faf6f0;
-  padding-bottom: 0.25rem;
 }
 
 .prose h3,
@@ -191,7 +189,6 @@ h1.text-neutral-800.dark\:text-neutral-200 {
 .dark .prose h2,
 .dark .prose h2 * {
   color: #fad6af !important; /* Matches social media icons */
-  border-bottom-color: #3f3f46 !important; /* Subtle neutral-700 divider */
 }
 
 .dark .prose h3,
